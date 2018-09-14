@@ -14,7 +14,7 @@ source:
     - Makefile.vc.patch  # [win]
 
 build:
-  number: 0
+  number: 1000
 
 requirements:
   build:
